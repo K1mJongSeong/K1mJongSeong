@@ -1,8 +1,13 @@
-### Hi there 👋
+
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JongSeongKim&fontSize=80" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jong%20Seong%20Kim&fontSize=80" />	
 </div>
-<div align=center>
+
+### Hi there 👋
+
+- 🌱 2021.07.02.~2021.12.01. 경북테크노파크 Open SoftWare 공모전
+- 🌵 2021.04.19.~2021.10.20. KSA 한국표준협회 산업융합형 인재 양성
+<div align=center> 
 	<h3>🔨 Tech Stack 🔨</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
@@ -15,7 +20,7 @@
 	<br>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=MySql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=PHP&logoColor=white"/>
 </div>
@@ -32,7 +37,8 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1mJongSeong&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=K1mJongSeong&show_icons=true">
 
 
 
