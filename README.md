@@ -1,6 +1,6 @@
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jong%20Seong%20Kim&fontSize=80" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=C2A1D2&height=200&section=header&text=Jong%20Seong%20Kim&fontSize=80" />	
 </div>
 
 ### Hi there 👋
