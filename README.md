@@ -7,6 +7,7 @@
 
 - 🌱 2021.07.02.~2021.12.01. 경북테크노파크 Open SoftWare 공모전
 - 🌵 2021.04.19.~2021.10.20. KSA 한국표준협회 산업융합형 인재 양성
+- Flutter Version 1.17.5 ~ 현재
 <div align=center> 
 	<h3>🔨 Tech Stack 🔨</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -36,8 +37,13 @@
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1mJongSeong&layout=compact"><br><br>
+
+
+---
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1mJongSeong&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=K1mJongSeong&show_icons=true">
 
 
