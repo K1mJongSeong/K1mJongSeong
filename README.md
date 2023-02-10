@@ -14,11 +14,13 @@
 
 <div align="center">
 	
-<div align="right">
-		
+<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K1mJongSeong&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+
 </div>
-<div align="left">
+
 	
 <h3>🔨 Tech Stack 🔨</h3>
 <p>✨ Platforms & Languages ✨</p>
@@ -44,7 +46,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-</div>
+
 </div>
 
 
