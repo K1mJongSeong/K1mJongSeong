@@ -42,11 +42,11 @@
 ---
 
 
-
+<div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1mJongSeong&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=K1mJongSeong&show_icons=true">
 
-
+</div>
 
 
 <!--
