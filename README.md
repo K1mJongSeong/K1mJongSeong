@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/Mssql-003B57?style=flat&logo=Microsoft SQL Server&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=blue"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"> 
 <br>
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=MySql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
